@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer of the Right Honourable the Earle of New-Castle His Excellency, &amp;c., to the six groundlesse aspersions cast upon him by the Lord Fairefax, in his late warrant (here inserted) bearing date Feb. 2, 1642 by the Earle himselfe.</title>
+            <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53068</idno>
+            <idno type="STC">Wing N875</idno>
+            <idno type="STC">ESTC R12249</idno>
+            <idno type="EEBO-CITATION">13127078</idno>
+            <idno type="OCLC">ocm 13127078</idno>
+            <idno type="VID">97850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer of the Right Honourable the Earle of New-Castle His Excellency, &amp;c., to the six groundlesse aspersions cast upon him by the Lord Fairefax, in his late warrant (here inserted) bearing date Feb. 2, 1642 by the Earle himselfe.</title>
+                  <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Yorke, and reprinted at Oxford by H.H.,</publisher>
+                  <pubPlace>Oxford [Oxfordshire] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97850:1" rendition="simple:additions"/>
+            <p>AN ANSWER <hi>Of the Right Honourable the</hi> EARLE OF NEW-CASTLE HIS Excellency, &amp;c. To the ſix groundleſſe aſperſions caſt upon him by the Lord <hi>Fairefax,</hi> in his late Warrant (here inſerted) bearing Date <hi>Feb.</hi> 2. 1642.</p>
+            <p>
+               <hi>By the</hi> EARLE <hi>Himſelfe.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="quotations">
+                        <head>The Proteſtation of the afflicted Miniſters, Printed 1605.</head>
+                        <q>
+                           <bibl>
+                              <hi>Pag. 4.</hi>
+                           </bibl>
+                           <p>Though the King command anything contrary to the Word, yet we ought not to reſiſt, but peaceably to forbeare obedience, and ſue for grace, and when that cannot be obtained, meekely ſubmit our ſelves to puniſhment.</p>
+                        </q>
+                        <q>
+                           <bibl>
+                              <hi>And Pag. 18.</hi>
+                           </bibl>
+                           <p>It is utterly unlawfull for any Chriſtian Churches by Armed Power againſt the will of the Civill Magiſtrate to ſet up in Publique the true Worſhip of God, or ſuppreſſe any Superſtition or Idolatry.</p>
+                        </q>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at <hi>Yorke,</hi> and reprinted at <hi>Oxford</hi> by <hi>H.H.</hi> 1642.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:97850:2"/>
+            <p>IT is my Will and Pleaſure, That this Anſwer, together with the Lord <hi>Faire<g ref="char:EOLhyphen"/>fax</hi> his Warrant, be publiſhed in all Chur<g ref="char:EOLhyphen"/>ches and Chappels within this <hi>City</hi> and <hi>County</hi> of <hi>Yorke.</hi>
+            </p>
+            <closer>
+               <signed>W. NEW-CASTLE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:97850:2"/>
+            <head>AN ANSWER OF THE RIGHT Honourable the EARLE of New-CASTLE, his Excellency, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is no new thing (though it was never ſo frequent as now) for Incendiaries to accuſe Innocents as diſturbers of the Publike tranquillity of the Country. So ugly is the Face of Rebellion when it comes unmasked, without ſome cloake or Vizard over it, that even ſeditious perſons cannot fancy it in themſelves. The charge which the Lord <hi>Fairefax</hi> gives againſt me, in this Declaration, is like that of a Roman a<g ref="char:EOLhyphen"/>gainſt his fellow Citizen, That <hi>he did not receive his whole wea<g ref="char:EOLhyphen"/>pon in to his body.</hi> He was angry that his neighbour ſhould defend himſelfe, and my Lord, that I ſhould proteſt His Majeſties good Subjects from his violence. And though a generall accuſation might juſtly be ſleighted as a ſlander, to which by the Lawes of this land no man is bound to anſwer, to which it is impoſſible for any man to make a direct anſwer (ſince it is not inveſted
+<pb n="2" facs="tcp:97850:3"/>with the due circumſtances of time and place and perſons) nei<g ref="char:EOLhyphen"/>ther is the Lord <hi>Fairefax</hi> able to bring one particular inſtance to make good his generall calumniations, yet ſince it proceeds from a perſon of his eminency, I have thought fit as well for the vindication of mine owne honour, as for confirmation of the minds of His Majeſties well affected ſubiects in their loyal<g ref="char:EOLhyphen"/>ty to repell his ſlanders in the preſſe, as I doubt not by Gods a<g ref="char:EOLhyphen"/>ſſiſtance to do his forces in the field. Yet give me leave to won<g ref="char:EOLhyphen"/>der who they are that have ſuch an influence upon his Lord<g ref="char:EOLhyphen"/>ſhips underſtanding, as to draw him in ſix lines to Publiſh to the world ſix groundleſſe aſperſions, againſt a perſon that hath not deſerved ill of him without the leaſt provocation.</p>
+            <p>The firſt is, That <hi>contrary to the Laws of the Land I have raiſed a<g ref="char:EOLhyphen"/>great Army.</hi> I might anſwer, That the Lawes are indeed an excellent ſtandard and meaſure of Juſtice ſo long as they are common to all parties, but when they become like ſpiders webs to intangle ſome, and let through others, when ſome men muſt obſerve Law, and others will be free from all Law, it is the grea<g ref="char:EOLhyphen"/>teſt partiality and the falſeſt meaſure in the world. And as our Saviour ſaid to the Phariſees, If I by Beelzebub caſt out Devils, by whom do your Children caſt them out? They ſhall be your Judges. So ſay I, If I be a Delinquent againſt the Lawes, for raiſing defenſive Arms by vertue of His Majeſties Commiſſion (with whom alone the power of the <hi>Militia</hi> is intruſted both by God and Man) what is the Lord <hi>Fairefax</hi> and his parteners for raiſing offenſive rebellious Arms againſt their fellow Sub<g ref="char:EOLhyphen"/>jects, without, nay, againſt His Majeſties authority. But he hath appealed to the Lawes, to the Lawes let him goe? Let him ſhew but any one particle of known Law, Statute or Common, which I have violated, and I ſhall lay downe Armes as cheerefully as I tooke them up. But if this be impoſſible (as without doubt it is) then ceaſe at length to tell us of Lawes in the clouds, or of Lawes written in the Sybills bookes, which no men ever read
+<pb n="3" facs="tcp:97850:3"/>or heard of but your ſelves. All true Engliſh men will diſdaine to exchange their inheritance, the antient Lawes of this Land (under which they and their progenitors have already injoyed ſuch happy and Halcionian daies, and hope ſtill for better from His Majeſties greater experience, and late Acts of Grace) either for a Company of far-fetched deare-bought principles, drawen without Art or Judgement, by factious unskilfull perſons, out of the Law of nature or of Nations, as a Lesbian rule to ſerve their ambitious ends: Or for Arbitrary Government, which knowes no bounds, or limits but the will of head-ſtrong diſcontented perſons. With what face can theſe men name the Lawes of the Land? when one of them hath lately told the world in print, that they are but <hi>the inventions of men:</hi> Yea <hi>morall precepts, fitter for Heathens then Chriſtians.</hi> In a word, I raiſe Armes by the Law, and for the Law, to protect the Lawes and Religion eſtabliſhed; you to ſubvert them both, I raiſe Armes under His Majeſty, for His Majeſtie; you without him, againſt him, by vertue of your owne warrants: If it be not ſo, ſhew us but one text, one Statute, nay, but one poore caſe or preſident for your Juſtification. And that you may ſee I am in earneſt, I deſire God to vouchſafe his bleſſing and aſſiſtance to that party which ſtands truly and cor<g ref="char:EOLhyphen"/>dially for the defence of the knowne Lawes of this Realme, and to deny it to all others.</p>
+            <p>The ſecond charge is, That <hi>mine Army conſiſts of Papiſts and other Malignants.</hi> That I have in mine Army ſome of the Ro<g ref="char:EOLhyphen"/>miſh Communion I doe not deny; yet but an handfull in com<g ref="char:EOLhyphen"/>pariſon of the whole Body of it, I beleeve not above one of fif<g ref="char:EOLhyphen"/>ty, and I wiſh their Conſciences as well ſatisfied as mine owne of the Trueth of our Profeſſion. Theſe I admitted for their Loyalty and Abilities, not for their Religion, as was moſt law<g ref="char:EOLhyphen"/>full for me to doe; a courſe warranted by the examples both of God and Man, and chalked out to me by themſelves: yea, it was a note higher in them, in a Warre pretended againſt Papiſts, to
+<pb n="4" facs="tcp:97850:4"/>make uſe of Papiſts in places of great truſt and command; nay, doe they not ſtill admit all ſorts of Sectaries, Browniſts, Ana<g ref="char:EOLhyphen"/>baptiſts, Familiſts, &amp;c? I have demonſtrated the equity of this courſe to the World, which they know not how to anſwer; the fidelity of the one ſhall riſe up in judgement againſt the Rebelli<g ref="char:EOLhyphen"/>on of the other, and condemne it; Certainly in this particular ſervice they ſhew themſelves better friends to the Proteſtant Religion, then the others But they are not ſatisfied to robbe me of them, unleſſe they may ſweep away all the reſt under the ſtale and empty name of Malignant; I doe not much blame them, their intended worke would be more eaſily atchieved. But let us inquire who in their Dialect are theſe Malignants; Are they who doe not willingly part with their Religion, Lawes, Liberties, Lively hoods, leſt them by their fathers u<g ref="char:EOLhyphen"/>pon Arbitrary Votes? So a Theife may Terme a True man a Malignant, becauſe he doth refuſe to deliver his Purſe upon de<g ref="char:EOLhyphen"/>mand; So the Wolves in their Treaty of Accommodation with the Sheep, deſired the Dogs to be delivered up to them as Ma<g ref="char:EOLhyphen"/>lignants. Thoſe have hitherto beene eſteemed Malignant hu<g ref="char:EOLhyphen"/>mours in the Body Naturall, which being ſtubborne, Rebelli<g ref="char:EOLhyphen"/>ous, Venemous, are with difficulty reduced to their light tem<g ref="char:EOLhyphen"/>per, either by ſtrength of Nature, or skill in Phyſicke, not, thoſe which are not eaſily infected or diſtemper'd. This is new Learning, and requires a new Dictionary to warrant it. Before they conclude them Malignant, they ſhould doe well to prove them to be <hi>Peccant</hi> againſt any authentick rule: The Apoſtle ſaith, <hi>Where there is no Law there is no tranſgreſſion;</hi> To accuſe boldly is not ſufficient to convince. If a common Adverſary did not keep them in a kind of <hi>Herodian</hi> Unity for a time, your Browniſts would ſoon condemne your ordinary diſciplinarians for Malignants, and your Anabaptiſts againe your Browniſts, &amp;c.</p>
+            <p>Thirdly, you charge me <hi>to have Invaded this County of</hi> York.
+<pb n="5" facs="tcp:97850:4"/>An inſolent and preſumptuous Challenge Can the Kings forces be ſaid to make an Invaſion in His owne Dominions? The ſe<g ref="char:EOLhyphen"/>cond blow may be ſaid to make the fray, but it is the firſt that makes the Invaſion. Say in good earneſt, did not your Forces firſt make Inrodes into the Biſhoprick of <hi>Durham</hi> under my charge, where they had no pretence of imployment? Did they not Rob and Plunder ſundry of His Majeſties Leige People at <hi>Dornton</hi>) in ſuch cruell ma<g ref="char:cmbAbbrStroke">̄</g>ner, that the prime Officer of the Towne died of greife within three or foure Dayes? Did they not-give an aſſault upon <hi>Piers bridge</hi> to their loſſe? And when I come to chaſtiſe theſe Intruders, can it be called an Invaſion? Neither did I then ſet foot into this County, but upon the ear<g ref="char:EOLhyphen"/>neſt Sollicitation and Intreaty of the Prime Nobility and Gen<g ref="char:EOLhyphen"/>try of <hi>Yorkeſhire,</hi> to ſecure them from your violence and op<g ref="char:EOLhyphen"/>preſſion. If Protection be Invaſion, then this is Invaſion. I could nouriſh little hopes that theſe reſtleſſe Spirits, who could not be bounded within their own calling, would be conteined within the limits of a County: Or that they would ſpare me any longer, then untill they had fully ſubdued their Neighbours and fellow Subjects at home. Neither could I have beene ever able to have given an Accompt to His Sacred Majeſty for ſuch an unpardonable omiſſion, if being Armed by His good<g ref="char:EOLhyphen"/>nes with ſufficient power to repreſſe ſuch tumultuous diſorders, I ſhould ſee before mine eyes His Loving and Loyall Subjects trampled upon by His and their Enemies, in His Cauſe, and for His ſake; and whileſt they ſeek to me for ſuccour, I ſhould be wanting in my Duty to my dread Soveraigne, and my neceſſary aſſiſtance to them. All this while the <hi>Lincolneſhire</hi> Forces are quite forgotten, they were Brethren; no Invaders.</p>
+            <p>The fourth charge ariſeth yet higher, <hi>For killing and deſtroy<g ref="char:EOLhyphen"/>ing ſome numbers of the Religious Proteſtant Subjects.</hi> Where did e<g ref="char:EOLhyphen"/>ver my Forces kill one man who did not take up Armes againſt us, or was not ready to have killed us firſt if he could? The
+<pb n="6" facs="tcp:97850:5"/>weight of guiltlesſe blood is more heavy then a Mountaine, The ſtaine thereof not to be waſhed out with all the water in the Ocean, but only by the tears of Repentance, and the bloud of Chriſt. This weight and guilt of bloud ſhall lie heavy upon the heads of thoſe men and of their ſeed after them, who have been the authors and famentors of theſe horrid diſtractions, when <hi>Peace ſhall be upon the head of our Soveraign, and his ſeed,</hi> and <hi>his throne for ever. They that take the Sword</hi> (without a lawfull cal<g ref="char:EOLhyphen"/>ling) <hi>ſhall periſh by the ſword,</hi> And <hi>He that ſheddeth Mans bloud</hi> (without a Commiſſion from the King of Heaven, who only hath originall Power over the lives of his creatures, and no multitude of men in the world collective or repreſentative whatſoever) <hi>by Man ſhall his bloud be ſhed.</hi> The ſupreme Magiſtrate is Gods Vicegerent, And <hi>Beareth not the ſword in vaine;</hi> but thoſe who preſume to uſe the ſword and can derive no Power from him, it were meet for them to make their Accounts betimes with God, leaſt they die in the ſtate of Murtherers both of themſelves and others, both of ſoule and body. It is an eaſie thing for an Ora<g ref="char:EOLhyphen"/>tor to caſt a miſt before the eies of Vulgar People, and make them a plauſible Diſcourſe of the <hi>Cauſe of God, the true Religion, of ſuppreſſing Superſtition and Idolatry,</hi> and <hi>ſetting upon the Right Wor<g ref="char:EOLhyphen"/>ſhip of the Lord.</hi> They had hard hearts if they could not afford themſelves a good word. But admitting, not granting, all this to be true (which is moſt falſe) will this plea yet ſerve before the Judge of Heaven and Earth? Nothing leſſe. Theſe very Men and their Predeceſſors, have taught the contrary, have proteſted the contrary, have Printed the contra<g ref="char:EOLhyphen"/>ry, <hi>Ante mota certamina,</hi> before theſe unhappy differences be<g ref="char:EOLhyphen"/>gan, whileſt mens eies were not faſcinated with faction and pre<g ref="char:EOLhyphen"/>judice. Then themſelves condemned this very Doctrine which now they practice as <hi>Antichriſtian and Anabaptiſttcall,</hi> and their preſent practice which they now defend, as <hi>ſeditious and ſinfull;</hi> this would be truly laid to heart; And withall, that if
+<pb n="7" facs="tcp:97850:5"/>the Lord <hi>Fairfax</hi> and his friends had beene men of their words, or performed that agreement to which Honour and Juſtice did oblige them, all the bloud which hath beene ſpilled, or ſhall be ſhed hereafter in this Cauſe, had beene ſaved; And upon their ſcore it will be caſt in the end, both by God and Man. It would be known who they are whom emphatically (if not excluſively) he calls Proteſtants. Are they the Succeſſors in Doctrine of thoſe firſt Reformers in Germany, whom from a <hi>Proteſtation</hi> made, they named <hi>Proteſtants?</hi> No, what theſe old Proteſtants allowed and practiced as lawfull and neceſſary, theſe new Pro<g ref="char:EOLhyphen"/>teſtants condemne as ſuperſtitious and Antichriſtian. This is be<g ref="char:EOLhyphen"/>yond the power of Omnipotency to make both parts of a con<g ref="char:EOLhyphen"/>tradiction to be true, Proteſtants whileſt they continue the ſame to be no Proteſtants, and no Proteſtants to be Proteſtants. If they do cordially love the thing as they do hugge the name, why do we not all ſhake Hands and become Freinds?</p>
+            <p>And ſo from murthering their bodies he proceeds to ſterving their ſoules, that is, by <hi>Baniſhing and impriſoning the Zealous Mi<g ref="char:EOLhyphen"/>niſters.</hi> This is my fifth charge, I envy no mans zeal, but wiſh them Diſcretion proportionable to their Devotion. To ſatiſ<g ref="char:EOLhyphen"/>fie their charge home, firſt, <hi>de jure,</hi> what may be done. It hath ever been accounted lawfull to bind a phreneticke mans hands. Shall it be lawfull for theſe ſeditious Orators to bring railing ac<g ref="char:EOLhyphen"/>culations into the Pulpits daily againſt the Lords annointed, ſuch as Michaell the Archangel durſt not bring againſt the Di<g ref="char:EOLhyphen"/>vell, and yet be free from queſtion: May they proſtitute the Ordinance of God to the rebellious deſignes of ambitious men, yet be free from queſtion? Could theſe Embaſſadours of Peace keepe themſelves to that Theame, which was bequeathed to them by the Prince of Peace, they might long injoy their Be<g ref="char:EOLhyphen"/>neſices and Liberties; yea, with ſome connivence to a truely tender Conſcience. But when a Man may frequent their Ser<g ref="char:EOLhyphen"/>mons a whole yeare, and heare nothing but incentives to War,
+<pb n="8" facs="tcp:97850:6"/>ſhedding the Bloud of the ungodly, and adjoining with others to make a great Sacrifice to the Lord, may not a man juſtly ſay to them, as Queene <hi>Elizabeth</hi> ſometimes to an Embaſſadour, <hi>Hei mihi</hi> I <hi>vocem Pacis expectavi, Cur Belli clamorem audio?</hi> Are not theſe the ſame Men who teach in their owne caſe, That <hi>he deſerves more rigorous puniſhment who ſhall infect the Soules of Men with poyſoned Doctrine, then he that ſhall deſtroy their bodies with poyſon?</hi> Are not theſe the Men, who upon the ſame grounds have ſilenc'd or Impriſoned, or, to uſe their owne Phraſe, ba<g ref="char:EOLhyphen"/>niſhed from their Churches ſo many of our Reverend, Lear<g ref="char:EOLhyphen"/>ned, and Worthy Divines throughout the whole Kingdome, to ſubintroduce Heterodox, and contentious perſons in their Rooms? And may no Man ſay to their Minions, not worthy to ſit at the Feet of the other, <hi>Domine, cur ita facis?</hi> Sir, why doe you ſo? Or ſhall we once againe bring in an exemption of Church men privately at the backedoore, which we have Pub<g ref="char:EOLhyphen"/>likely thruſt out at the foredoore? Thus you ſee it might be done, even upon your own grounds in point of right.</p>
+            <p>Now for the matter of fact, it is as much miſtaken as the right, I have recollected my ſelfe, I have inquired of ray Secre<g ref="char:EOLhyphen"/>tary, yet can I not find one Miniſter by me either baniſhed or impriſoned. If any Miniſter either before my comming or ſince, being apprehenſive of his own demerits, or out of a guilty Conſcience, without other compulſion, did forſake his Church, and leave it as the Oſtridge doth her eggs in the ſand, without care or proviſion, you cannot call this Baniſhment. Or if at ny of your Miniſters have aſſumed a pluralitie of profeſſions and added the Sword to the Word, if my Officers ſhould mee with him in ſuch a garbe, might they not inquire, <hi>an haec tunica Filii tui ſit,</hi> and take him in his ſecond capacity? Or laſtly, if the Juſtices of this County, who live upon the place, and do beſt know ſeditious perſons, and the juſt feares and dangers of the County, have thought fit to reſtraine any man from doing
+<pb n="9" facs="tcp:97850:6"/>hurt, was I bound to give a protection or a ſuperſedeas? when you inſtance in particular perſons, you ſhall receive particular ſatisfaction.</p>
+            <p>And ſo from the Body and Soule hee deſcends to the Eſtate, the laſt ſteppe of his accuſation, in theſe words, <hi>And hath beſides done infinite ſpoile and waſt upon the good Subjects, plundering and taking away their Goods and Cattle, in ſo much as in many places there are neither Men nor Cattle left to Till the Ground.</hi> Lord how theſe men are touched to the quick, when any man but themſelves dare offer to plunder! As if they deſired not only the free Trade, but even the Monopo<g ref="char:EOLhyphen"/>ly of Plundering to themſelves. I know no ſuch places in this County as he mentions; if there be any ſuch, without doubt they muſt neeeds know the deſolation which them<g ref="char:EOLhyphen"/>ſelves have made. But do they thinke with ſuch clamours and outcries to deaf the eares of men, and drowne the ejula<g ref="char:EOLhyphen"/>tions of poore people, whom they have harrowed? They have ſpared no Age, neither the venerable Old Man, nor the innocent Child; No orders of Men, The long Robe as well as the ſhort hath felt their fury. No Sex, not Women, no not women in Childbed, whom common humanity ſhould protect: No condition, neither Fathers nor Friends. They have ſpared no places, The Churches of Chriſtians which the Heathens durſt not violate, are by them propha<g ref="char:EOLhyphen"/>ned. Their Ornaments have beene made either the ſupply of their neceſſities, or the ſubject of their ſcurrilities; their Chalices, or Communion Cups (let them call them what they will ſo they would hold their ſingers from them) have become the objects of their Sacriledge; the Badges and Mo<g ref="char:EOLhyphen"/>numents of antient Gentry in Windowes and Pedegrees have beene by them defaced; Old evidences, the Records of private Families, the Pledges of Poſſeſſions, the bounda<g ref="char:EOLhyphen"/>ries of Mens Properties, have beene by them Burned, torne
+<pb n="10" facs="tcp:97850:7"/>in pieces, and the Seales trampled under their feete. Seelings and Wanſcott have beene broken in pieces, Walls demoli<g ref="char:EOLhyphen"/>ſhed, a thing which a brave Roman ſpirit would ſcorne (to tyrannize over Walls and Houſes.) And all this by a compa<g ref="char:EOLhyphen"/>ny of Men crept now at laſt out of the bottome of <hi>Pandora's</hi> Boxe. The poore Indians found out by experience that Gold was the Spaniards God, and the Country finds to their loſſe what is the Reformation which theſe men ſeeke. At this very time, I am informed they are executing the illegall Or<g ref="char:EOLhyphen"/>der for the Twentieth part of every Mans Eſtate in <hi>Craven.</hi> This would be a ſufficient anſwer for them, but not a ſuffici<g ref="char:EOLhyphen"/>ent plea for me.</p>
+            <p>Therefore in the ſecond place I adde, that my caſe is clear different from theirs: there may be Treaſon againſt the King, there can be none againſt them. There may be Forfeitures of Eſtates to the King, none to them. The King may raiſe Armes and leavy a juſt Warre, whatſoever they do in that kind is void by the Law of Nations; whatſoever they ſhall ac<g ref="char:EOLhyphen"/>quire in ſuch a Courſe is not by Right, but a meere Nullity. No tract of time can weare away the unlawfulneſſe of the firſt acquiſition, but after an hundred yeares poſſeſſion, they are ſtill <hi>malae fidei poſſeſſores,</hi> poſſeſſe it with a bad Conſcience, and are bound to make reſtitution.</p>
+            <p>Laſtly, for matter of fact, when I came firſt into this Coun<g ref="char:EOLhyphen"/>ty I made a publike Declaration againſt plundering in Print, which I have ſince endeavoured to obſerve. Yet that ſome men of their party have ſuffered in their eſtates I do readily grant, that is, either ſuch as have abſented themſelves, or have refuſed to pay thoſe proportions of money, which were im<g ref="char:EOLhyphen"/>poſed upon them by the County. But whatſoever hath been done in that kind hath been done by the Gentry or the Com<g ref="char:EOLhyphen"/>mittees by them named, with as much moderation as the pre<g ref="char:EOLhyphen"/>ſent exigence of affaires would permit, wherein I have rather
+<pb n="11" facs="tcp:97850:7"/>acted the part of their Miniſter, to execute what they reſol<g ref="char:EOLhyphen"/>ved, then lookod upon that great truſt which His Majeſtie hath impoſed upon me. So I have done with the charge.</p>
+            <p>The Lord <hi>Fairefax</hi> requires all Parties to appeare, and I Command them all upon their Allegeance to ſtay at home. They may perhaps come thither without danger, but the di<g ref="char:EOLhyphen"/>fficulty will be to get ſafe back againe, <hi>ſedrevocare gradum, hic Lahor hoc Opus est,</hi> and afterwards to avoyd certaine puniſh<g ref="char:EOLhyphen"/>ment for theſe tumultuous and Rebellious meetings. It were a more conſcionable and diſcreet part of them, to repaire all as one unanimous body to their Soveraign's Standard, and drive out theſe Incendiaries from among them, who have beene the true authors of all the preſſing grievances and mi<g ref="char:EOLhyphen"/>ſeries of this <hi>County.</hi>
+            </p>
+            <p>Withall, his Lordſhip talkes of driving me and mine Ar<g ref="char:EOLhyphen"/>my out of the <hi>County;</hi> he knowes this cannot be done without a meeting. If it be not a flouriſh, but a true ſparke of undiſ<g ref="char:EOLhyphen"/>ſembled Gallantry, he may doe well to expreſſe himſelfe more particularly for time and place. This is more confor<g ref="char:EOLhyphen"/>mable to the Examples of our Heroicke Anceſtors, who uſed not to ſpend their time in ſcratching one another out of holes, but in pitched Fields determined their doubts. This would quickly ſet a Period to the ſufferings of the People, un<g ref="char:EOLhyphen"/>leſſe he deſire rather to prolong thoſe miſerable diſtractions, which were begun with breach of Promiſe. It were pitty if his deſires leade him this way, but he ſhould be ſatisfied: And let the God of Battels determine the right of our Engliſh Lawes and Liberties.</p>
+         </div>
+         <div type="warrant">
+            <pb n="12" facs="tcp:97850:8"/>
+            <head>FERDINANDO Lord FAIREFAX, Generall of all the Northerne Forces rai<g ref="char:EOLhyphen"/>ſed and to be raiſed for the Service of KING and PARLIAMENT.</head>
+            <head type="sub">To all and ſingular the Majors, Bayliffes, Aldermen, and other Magiſtrates, and to the Miniſters of the Churches within the <hi>Weſt-Riding</hi> of the County of <hi>Yorke,</hi> and to every of them.</head>
+            <p>For as much as the Earle of <hi>Newcaſtle,</hi> contrary to the Lawes of the Land, hath raiſed a great Army of Papiſts, and other Malignants, and with them Invaded this County of <hi>Yorke,</hi> Killing and Deſtroying ſome numbers of the Religious Pro<g ref="char:EOLhyphen"/>teſtant Subjects, Baniſhing and Impriſoning the Zealous Miniſters, and hath beſides done infinite ſpoyle and waſt upon the good Sub<g ref="char:EOLhyphen"/>jects, Plundering, and taking away their Goods and Cattell; inſomuch as in many places there are neither Men nor Cattell left to till the ground. Theſe are therefore to deſire and Command you reſpective<g ref="char:EOLhyphen"/>ly to cauſe to be Publiſhed and Proclaimed in all the Churches and Markets of this County, that all Men of able Bodies and well affe<g ref="char:EOLhyphen"/>cted to the Proteſtant Religion, are required with the beſt Weapons and furniture for the War that they have; to aſſemble, come in, and aſsiſt me and the Army under my command, in expelling and dri<g ref="char:EOLhyphen"/>ving away out of this County the ſaid Army of Papiſts, and common Enemies of the peace, each Manbringing with him neceſſary Vi<g ref="char:EOLhyphen"/>ctuall for foure Dayes, onely the ſaid Forces thus to be rayſed, to draw downe to the ſeverall places of Rendezvous hereafter named,
+<pb n="13" facs="tcp:97850:8"/>that is, The Weſt-Riding Men to <hi>Sherbourne</hi> and <hi>Abberford;</hi> The North-Riding Men to <hi>Tollerton</hi> and <hi>Awne;</hi> And the Eaſt-Ri<g ref="char:EOLhyphen"/>ding Men to <hi>Stamford-Bridge,</hi> all of them to be there on Munday Night next, And ſo to March forward as they ſhall be ordered by Command that ſhall meet them at the places aforeſaid. And for ſo doing, this ſhall be your Warrans.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under my Hand and Seale</hi> 
+                  <date>
+                     <hi>the ſecond Day of</hi> February, <hi>Anno Domini, 1642.</hi>
+                  </date>
+               </dateline>
+               <signed>Fer. Fairfax.</signed>
+            </closer>
+            <postscript>
+               <p>To <hi>John Tayler,</hi> one of the High Conſtables of <hi>Skiracke,</hi> to procure this to be Publi<g ref="char:EOLhyphen"/>ſhed within your diviſion.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
